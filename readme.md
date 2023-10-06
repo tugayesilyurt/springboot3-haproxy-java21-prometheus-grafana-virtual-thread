@@ -17,6 +17,15 @@ Spring Boot 3 -HAProxy-Prometheus-Grafana-Java 21 ( Virtual Thread and Platform 
 docker-compose up -d
 ```
 
+## HAProxy UI
+
+![HAProxy UI](https://github.com/tugayesilyurt/tugayesilyurt/springboot3-haproxy-java21-prometheus-grafana-virtual-thread/blob/main/assets/haproxyui.png)
+
+## Service Call Count in Grafana
+
+![Grafana UI](https://github.com/tugayesilyurt/tugayesilyurt/springboot3-haproxy-java21-prometheus-grafana-virtual-thread/blob/main/assets/grafana.png)
+
+
 - `haproxy.cfg`
 
 ```
