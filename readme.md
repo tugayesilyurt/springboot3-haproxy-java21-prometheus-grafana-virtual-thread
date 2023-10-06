@@ -19,11 +19,11 @@ docker-compose up -d
 
 ## HAProxy UI
 
-![HAProxy UI](https://github.com/tugayesilyurt/tugayesilyurt/springboot3-haproxy-java21-prometheus-grafana-virtual-thread/blob/main/assets/haproxyui.png)
+![HAProxy UI](https://github.com/tugayesilyurt/springboot3-haproxy-java21-prometheus-grafana-virtual-thread/blob/main/assets/haproxyui.png)
 
 ## Service Call Count in Grafana
 
-![Grafana UI](https://github.com/tugayesilyurt/tugayesilyurt/springboot3-haproxy-java21-prometheus-grafana-virtual-thread/blob/main/assets/grafana.png)
+![Grafana UI](https://github.com/tugayesilyurt/springboot3-haproxy-java21-prometheus-grafana-virtual-thread/blob/main/assets/grafana.png)
 
 
 - `haproxy.cfg`
