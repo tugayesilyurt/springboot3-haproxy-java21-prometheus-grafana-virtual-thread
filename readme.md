@@ -16,6 +16,9 @@ Spring Boot 3 -HAProxy-Prometheus-Grafana-Java 21 ( Virtual Thread and Platform 
 ```shell
 docker-compose up -d
 ```
+## Medium
+
+[Read the full article on Medium](https://medium.com/@htyesilyurt/spring-boot-3-haproxy-prometheus-grafana-java-21-virtual-thread-and-platform-thread-and-string-9e62a121730e)
 
 ## HAProxy UI
 
